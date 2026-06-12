@@ -1,26 +1,46 @@
-# Hi there, I'm Yusuf 👋
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi there, I'm Yusuf
 
-I am a Cybersecurity student currently finishing my 3rd year at the Technical University of Sofia. Alongside my university studies, I am a certified **Python Full Stack Developer**. I have a strong passion for writing code, continuously learning new technologies, and building practical applications.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Python+Full+Stack+Developer;Software+Engineer;Cybersecurity+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack & Tools
-* **Languages:** Python, JavaScript, HTML, CSS, SQL
-* **Frameworks & Libraries:** Django, ReactJS, BeautifulSoup4
-* **Databases & Environment:** PostgreSQL, pgAdmin, Git, Docker
-* **Networking & Security:** Cisco Packet Tracer, Networking fundamentals
+* 🔭 Currently finishing my 3rd year at the **Technical University of Sofia**
+* 🎓 Holding diplomas in **Software Engineering with Python** & **Full Stack Development** (SoftUni)
+* 💻 Passionate about writing clean code, learning new tech, and building practical web apps
+* ⚡ Fun fact: I am a massive car enthusiast with a deep appreciation for Japanese car engineering and design.
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,docker,git&perline=10" />
+  </a>
+</p>
 
 ---
 
-## 📂 My Projects
+### 📂 My Projects
 
-### 💡 Personal Projects
-* **[Universal Deal Tracker](https://github.com/pulsar-04/UniversalDealTracker)** - A custom web aggregator built with Python and Django. Automates data extraction from platforms using BeautifulSoup4 and structures data into a PostgreSQL database using custom management commands.
+**💡 Personal Projects**
+* **[Universal Deal Tracker](https://github.com/pulsar-04/UniversalDealTracker)** - Web aggregator (Python/Django, PostgreSQL, BeautifulSoup4) with smart database management and custom crawling logic.
 
-### 🏛️ University (TU-Sofia) & Cybersecurity
-* **[ZeroTrustApp](https://github.com/pulsar-04/ZeroTrustApp)** - A Zero-Trust medical records management system. Demonstrates advanced security principles, network microsegmentation using Docker and Nginx, Attribute-Based Access Control (ABAC), and MFA.
+**🎓 SoftUni & Web Development**
+* **[Car Market SPA](сложи-линк-тук)** - ReactJS Single Page Application with REST API integration, Context API, and role-based UI.
+* **[Library Management System](сложи-линк-тук)** - Python/Django full-stack app. Features RBAC (rent/return for users, full CRUD for librarians) and custom error pages.
 
-### 🎓 SoftUni & Full Stack Development
-* **[Car Market SPA](https://github.com/pulsar-04/react-js)** - A Single Page Application built with ReactJS and a REST API, featuring complex state management (Context API) and robust client-side routing.
-* **[Library Management System](https://github.com/pulsar-04/library_system)** - A web application built with Python, Django, and PostgreSQL. Features user authorization where authenticated users can browse, rent, and return books, while librarians have full CRUD capabilities (including adding and deleting books). Includes custom-designed error pages to handle unauthorized access to librarian-only paths.
+**🏛️ University (TU-Sofia)**
+* **[ZeroTrustApp](https://github.com/pulsar-04/ZeroTrustApp)** - Zero-Trust medical records system. Demonstrates Docker microsegmentation, ABAC, and MFA.
 
 ---
-📫 **How to reach me:** [iusufvel@gmail.com](mailto:iusufvel@gmail.com)
+
+### 📫 Contact & Socials:
+
+<a href="mailto:iusufvel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://instagram.com/y.velisha">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
