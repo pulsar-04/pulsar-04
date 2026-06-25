@@ -13,10 +13,12 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,docker,git&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,mysql&perline=10" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,azure,terraform,jenkins,githubactions,git,vscode,pycharm&perline=10" />
   </a>
 </p>
 
@@ -33,6 +35,14 @@
 
 **🏛️ University (TU-Sofia)**
 * **[ZeroTrustApp](https://github.com/pulsar-04/ZeroTrustApp)** - Zero-Trust medical records system. Demonstrates Docker microsegmentation, ABAC, and MFA.
+
+---
+
+### 🌱 Currently Exploring & Learning
+
+* Implementing strict **Microsegmentation** and zero-trust access control policies in containerized environments.
+* Optimizing backend architecture with **asynchronous task queues** (Celery/Redis) and advanced database query profiling.
+* Expanding knowledge in **IT infrastructure and service management ecosystems** (including platforms like ServiceNow).
 
 ---
 
